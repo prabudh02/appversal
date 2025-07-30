@@ -1,6 +1,6 @@
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { switchRole } from '../redux/slices/roleslice';
+import { switchRole } from '../redux/slices/roleSlice';
 import RoleToggle from './RoleToggle';
 import { HiSun, HiMoon } from 'react-icons/hi';
 
