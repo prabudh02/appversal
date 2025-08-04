@@ -4,7 +4,7 @@ import Header from '../components/Header';
 import MemberCard from '../components/MemberCard';
 import TaskForm from '../components/TaskForm';
 import TaskList from '../components/TaskList';
-import StatusSelector from '../components/statusSelector';
+import StatusSelector from '../components/StatusSelector';
 import StatusSummary from '../components/StatusSummary';
 import PieChartComponent from '../components/PieChartComponent';
 
