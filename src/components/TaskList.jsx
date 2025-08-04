@@ -1,7 +1,7 @@
 import React from 'react';
 import ProgressBar from './ProgressBar';
 import { useDispatch } from 'react-redux';
-import { updateProgress } from '../redux/slices/tasksSlice';
+import { updateProgress } from '../redux/slices/tasksSlice.js';
 
 const TaskList = ({ tasks }) => {
   const dispatch = useDispatch();

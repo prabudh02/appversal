@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import Header from '../components/Header';
 import MemberCard from '../components/MemberCard';
-import TaskForm from '../components/taskform';
+import TaskForm from '../components/TaskForm';
 import TaskList from '../components/TaskList';
 import StatusSelector from '../components/statusselector';
 import StatusSummary from '../components/StatusSummary';
