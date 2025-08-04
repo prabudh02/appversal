@@ -10,3 +10,4 @@ export default configureStore({
     tasks: tasksReducer
   }
 });
+// This store configuration combines the members, role, and tasks slices into a single Redux store.
